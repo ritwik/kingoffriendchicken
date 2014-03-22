@@ -1,0 +1,7 @@
+Django==1.6.2
+South==0.8.4
+WebOb==1.1.1
+dj-database-url==0.3.0
+psycopg2==2.5.2
+webapp2==2.5.2
+wsgiref==0.1.2
